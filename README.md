@@ -11,7 +11,7 @@
     - [Angular Material Design](#angular-material-design)
     - [Angular CDK (Component Development Kit)](#angular-cdk-component-development-kit)
     - [Configure application to use angular material](#configure-application-to-use-angular-material)
-    - [Insetll and import hammerjs](#insetll-and-import-hammerjs)
+    - [Install and import hammerjs](#install-and-import-hammerjs)
     - [Setup and use material icons](#setup-and-use-material-icons)
 
 <!-- /TOC -->
@@ -83,7 +83,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
   ## Using angular material UI components
   >https://material.angular.io has sample and definitions about using different angular material UI components
 
-## Insetll and import hammerjs
+## Install and import hammerjs
 
 >Install and import hammerjs for gestur support in touch devices
 
