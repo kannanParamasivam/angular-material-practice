@@ -11,6 +11,8 @@
     - [Angular Material Design](#angular-material-design)
     - [Angular CDK (Component Development Kit)](#angular-cdk-component-development-kit)
     - [Configure application to use angular material](#configure-application-to-use-angular-material)
+    - [Insetll and import hammerjs](#insetll-and-import-hammerjs)
+    - [Setup and use material icons](#setup-and-use-material-icons)
 
 <!-- /TOC -->
 
@@ -74,5 +76,31 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
   ![Import material module in app module](readme_images/6.import_material_module_in_app_module.JPG "Import material module in app module")
 
+* To get material design components look good we need to import one of the pre bulit themes from `@angular/material/prebuilt-themese` inot global styles.css file
+
+![Import prebuilt theme](readme_images/7.import_prebuilt_theme_from_prebuilt_material_themes.JPG "Import prebuilt theme")
+
   ## Using angular material UI components
   >https://material.angular.io has sample and definitions about using different angular material UI components
+
+## Insetll and import hammerjs
+
+>Install and import hammerjs for gestur support in touch devices
+
+![install hammerjs through npm](readme_images/8.install_hammerjs_through_npm.JPG "install hammerjs through npm")
+
+![import hammerjs in main.ts for global use](readme_images/9.import_hammerjs_in_main_ts.JPG "import hammerjs in main.ts for global use")
+
+## Setup and use material icons
+
+* Include font family for icons in index.html
+
+  ![icon font family](readme_images/10.imprt_icon_font_family_in_index_html.JPG "icon font family")
+
+* Import `MatIconModule` into `appModule`
+
+  ![import maticonmodule](readme_images/11.import_mat_icon_module_into_app_module.JPG "import maticonmodule")
+
+* Sample usage of icon
+
+![usage of icon](readme_images/12.sample_usage_of_mat_icon.JPG "usage of icon")
