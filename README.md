@@ -104,3 +104,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * Sample usage of icon
 
 ![usage of icon](readme_images/12.sample_usage_of_mat_icon.JPG "usage of icon")
+
+## Import all material moudles
+> Following is the link of all material moudles
+https://github.com/ajtowf/angularmaterial/blob/master/src/app/shared/material.module.ts
+
+![import all material modules](readme_images/13.import_all_material_modules.JPG "import all material modules")
